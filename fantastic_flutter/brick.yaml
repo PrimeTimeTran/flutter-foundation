@@ -1,0 +1,11 @@
+name: fantastic_flutter
+description: A fast Flutter start template with l10n, translation generation, light/dark mode, design guide, bloc, routing & more.
+version: 0.1.0+1
+environment:
+  mason: '>=0.1.0-dev.50 <0.1.0'
+vars:
+  name:
+    type: string
+    description: The name of your project
+    default: my_app
+    prompt: What would you like to name your project?

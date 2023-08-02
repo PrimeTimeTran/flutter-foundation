@@ -1,0 +1,21 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "hello": "Hola",
+    "world": "mundo",
+    "english": "Inglés",
+    "spanish": "Español",
+    "vietnamese": "Vietnamita",
+    "isEnglish": "English",
+    "isHello": "Hello",
+    "isWorld": "World",
+    "isSpanish": "Español",
+    "isHola": "Hola",
+    "isMundo": "Mundo",
+    "isVietnamese": "Tiếng Việt",
+    "isXinChao": "Xin chào",
+    "isTheGioi": "Thế giới"
+}

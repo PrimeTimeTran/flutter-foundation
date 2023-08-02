@@ -1,0 +1,3 @@
+- Checklists for things like PRs, steps for new app store submissions, releases, hot fixes, etc.
+- Scratchpads is for code testing & things we don't want to commit but always want available unlike stashes.
+- A meaningful project should be planned with teammates and taking meeting notes is almost always a good idea.
